@@ -1,0 +1,7 @@
+[package]
+name = "rust_sympy"
+version = "0.1.0"
+authors = ["rudimk <Rudi MK>"]
+
+[dependencies.cpython]
+version = "*"
